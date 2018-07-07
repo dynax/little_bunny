@@ -1,3 +1,7 @@
+# data and build folders
+data/*
+!data/.keep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
